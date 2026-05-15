@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="YOUR_LOGO_OR_BANNER_LINK_HERE.png" alt="ApexMine Banner" width="100%">
 
   # ⚔️ ApexMine Network
 
