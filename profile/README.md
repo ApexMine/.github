@@ -4,8 +4,8 @@
   # ⚔️ ApexMine Network
 
   [![Server Status](https://img.shields.io/badge/Status-Online-brightgreen.svg?style=for-the-badge)]()
-  [![Bedrock Version](https://img.shields.io/badge/Bedrock-1.21.x-blue.svg?style=for-the-badge)]()
   [![Custom AntiCheat](https://img.shields.io/badge/Protected_by-BlackCrow-black.svg?style=for-the-badge)]()
+  [![Bedrock Version](https://img.shields.io/badge/Bedrock-1.21.x-blue.svg?style=for-the-badge)]()
 
   **The ultimate Minecraft Bedrock experience featuring flawless connection, breathtaking competition, and fully custom-built systems!**
 </div>
