@@ -4,7 +4,7 @@
   # ⚔️ ApexMine Network
 
   [![Server Status](https://img.shields.io/badge/Status-Online-brightgreen.svg?style=for-the-badge)]()
-  [![Bedrock Version](https://img.shields.io/badge/Bedrock-1.20.x-blue.svg?style=for-the-badge)]()
+  [![Bedrock Version](https://img.shields.io/badge/Bedrock-1.21.x-blue.svg?style=for-the-badge)]()
   [![Custom AntiCheat](https://img.shields.io/badge/Protected_by-BlackCrow-black.svg?style=for-the-badge)]()
 
   **The ultimate Minecraft Bedrock experience featuring flawless connection, breathtaking competition, and fully custom-built systems!**
@@ -16,9 +16,9 @@
 
 Ready to jump into the action? Add our server to your Minecraft Bedrock client:
 
-- **IP Address:** `play.apexmine.ir` *(Replace with your actual IP if different)*
+- **IP Address:** `play.apexgaming.ir`
 - **Port:** `19132`
-- **Version:** `Latest Bedrock Edition`
+- **Version:** `1.21.00 - Latest Bedrock Edition`
 
 ---
 
@@ -47,7 +47,7 @@ Dive into our carefully crafted game modes:
 
 The ApexMine development team is constantly innovating to handle thousands of concurrent players. Our tech stack includes:
 
-- **Core Server Software:** Heavily customized forks of `PocketMine-MP` (PHP 8.x).
+- **Core Server Software:** Heavily customized forks of `PocketMine-MP` (PHP 8.4).
 - **Heavy Processing:** Security cores, including the BlackCrow AntiCheat, written in **Go** for maximum concurrency and performance.
 - **Network & Data:** Scalable databases and multi-tenant load balancing for high availability.
 
