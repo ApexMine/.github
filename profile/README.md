@@ -4,7 +4,7 @@
   # ⚔️ ApexMine Network
 
   [![Server Status](https://img.shields.io/badge/Status-Online-brightgreen.svg?style=for-the-badge)]()
-  [![Custom AntiCheat](https://img.shields.io/badge/AntiCheat-BlackCrow-yellow.svg?style=for-the-badge)]()
+  [![Custom AntiCheat](https://img.shields.io/badge/AntiCheat-BlackCrow-red.svg?style=for-the-badge)]()
   [![Bedrock Version](https://img.shields.io/badge/Bedrock-1.21.x-blue.svg?style=for-the-badge)]()
 
   **The ultimate Minecraft Bedrock experience featuring flawless connection, breathtaking competition, and fully custom-built systems!**
@@ -26,7 +26,7 @@ Ready to jump into the action? Add our server to your Minecraft Bedrock client:
 
 We strive to provide the highest quality gameplay experience possible:
 
-* 🛡️ **Proprietary AntiCheat (BlackCrow):** Our network is protected by a blazing-fast, custom-built Go processing core. It detects and prevents unfair advantages (Killaura, Reach, Fly) with zero impact on server TPS.
+* 🛡️ **Proprietary AntiCheat (BlackCrow):** Our network is protected by a blazing-fast, custom-built Go processing core. It detects and prevents unfair advantages (Killaura, Reach, Fly, ...) with zero impact on server TPS.
 * ⚡ **Flawless Connection:** Highly optimized infrastructure tailored to provide the lowest latency and smoothest gameplay.
 * 🛠️ **Custom Systems:** From unique game mechanics to custom server software, we don't just use plugins; we build experiences.
 * 🤝 **Active Community:** Regular events, dedicated staff, and a welcoming environment for all players.
